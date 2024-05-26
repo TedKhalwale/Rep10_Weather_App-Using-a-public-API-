@@ -5,6 +5,14 @@ body {
     padding: 0;
 }
 
+.home {
+    background-image: url(../media/images/pawel-czerwinski-5x7kyu3J4Xs-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+}
 .container {
     max-width: 600px;
     margin: 50px auto;
